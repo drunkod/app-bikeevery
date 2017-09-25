@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/about/",
+    "component": "about.vue"
+  },
+  {
+    "path": "/form/",
+    "component": "form.vue"
+  },
+  {
+    "path": "/dynamic-route/blog/:blogId/post/:postId/",
+    "component": "dynamic-route.vue"
+  }
+]
