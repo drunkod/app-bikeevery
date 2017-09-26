@@ -11,7 +11,7 @@
              <f7-page>
                <f7-navbar v-if="$theme.material" title="Left Panel" sliding></f7-navbar>
                <f7-block inner>
-                 <p>Left panel content goes here</p>
+                 <p>zorrooooooooo</p>
                </f7-block>
                <f7-block-title>Load page in panel</f7-block-title>
                <f7-list>
